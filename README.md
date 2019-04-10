@@ -38,6 +38,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - D3DFACS registrations: http://flame.is.tue.mpg.de/
 - FaceCap dataset: http://gvv.mpi-inf.mpg.de/projects/FaceCap/
 - MonFaceCap: http://gvv.mpi-inf.mpg.de/projects/MonFaceCap/ 
+- Parametric Face Image Generator: https://github.com/unibas-gravis/parametric-face-image-generator
 
 ## Bodies:
 - A Model of Dynamic Human Shape in Motion:  http://dyna.is.tue.mpg.de 
