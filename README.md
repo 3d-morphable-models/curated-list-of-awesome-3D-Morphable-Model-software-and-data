@@ -43,6 +43,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 ## Bodies:
 - A Model of Dynamic Human Shape in Motion:  http://dyna.is.tue.mpg.de 
 - In the wild 3D pose dataset with ground truth: http://virtualhumans.mpi-inf.mpg.de/3DPW
+- Human3.6m - 3.6 million 3D poses from 11 actors and in 17 scenarios: http://vision.imar.ro/human3.6m
 - CAESAR body measurements database: https://store.sae.org/caesar/ 
 - People in clothing scans: http://buff.is.tue.mpg.de
 - Data from the GVV group: http://gvvperfcapeva.mpi-inf.mpg.de/
@@ -69,6 +70,12 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - 3D Morphable Model fitting using edge features: https://github.com/waps101/3DMM_edges 
 - A lightweight 3D Morphable Model fitting library: https://github.com/patrikhuber/eos 
 - Probabilistic Fitting: https://github.com/unibas-gravis/scalismo-faces 
+- Deep Neural Network parameter regression: https://talhassner.github.io/home/publication/2017_CVPR
+- Experssion-Net: https://github.com/fengju514/Expression-Net
+- Face-Pose-Net: https://github.com/fengju514/Face-Pose-Net
+### Benchmarks:
+- “not quite in-the-wild” (NoW) Challenge: https://ringnet.is.tue.mpg.de
+
 ## Bodies:
 - 3D pose and shape (Neural Body Fitter): https://github.com/mohomran/neural_body_fitting
 
