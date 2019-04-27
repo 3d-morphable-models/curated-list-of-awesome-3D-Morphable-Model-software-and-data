@@ -4,7 +4,10 @@
   </p>
 
 The idea of this list is to collect shared data and algorithms around 3D Morphable Models. You are invited to contribute to this list by adding a pull request. The original list arised from the Dagstuhl seminar on 3D Morphable Models https://www.dagstuhl.de/19102 in March 2019.
+
 # Morphable Models:
+## Google Group
+- Google group to help foster a research community interested in 3DMMs, share resources etc.: https://groups.google.com/forum/#!forum/3d-morphable-models
 ## Face Models:
 - Basel Face Model 2009: http://faces.cs.unibas.ch/bfm/?nav=1-0&id=basel_face_model
 - Basel Face Model 2017: http://faces.cs.unibas.ch/bfm/bfm2017.html
