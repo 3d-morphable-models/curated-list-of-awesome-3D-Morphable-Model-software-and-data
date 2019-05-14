@@ -42,6 +42,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - FaceCap dataset: http://gvv.mpi-inf.mpg.de/projects/FaceCap/
 - MonFaceCap: http://gvv.mpi-inf.mpg.de/projects/MonFaceCap/ 
 - Parametric Face Image Generator: https://github.com/unibas-gravis/parametric-face-image-generator
+- VOCASET speech-4D scan dataset: https://voca.is.tue.mpg.de/
 
 ## Bodies:
 - A Model of Dynamic Human Shape in Motion:  http://dyna.is.tue.mpg.de 
@@ -76,6 +77,9 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - Deep Neural Network parameter regression: https://talhassner.github.io/home/publication/2017_CVPR
 - Experssion-Net: https://github.com/fengju514/Expression-Net
 - Face-Pose-Net: https://github.com/fengju514/Face-Pose-Net
+- FLAME fitting: https://github.com/Rubikplayer/flame-fitting
+- RingNet: https://github.com/soubhiksanyal/RingNet
+
 ### Benchmarks:
 - “not quite in-the-wild” (NoW) Challenge: https://ringnet.is.tue.mpg.de
 
