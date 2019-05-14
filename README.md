@@ -43,6 +43,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - MonFaceCap: http://gvv.mpi-inf.mpg.de/projects/MonFaceCap/ 
 - Parametric Face Image Generator: https://github.com/unibas-gravis/parametric-face-image-generator
 - VOCASET speech-4D scan dataset: https://voca.is.tue.mpg.de/
+- Speech-driven 3D Facial Motion Database (S3DFM): http://groups.inf.ed.ac.uk/trimbot2020/DYNAMICFACES/index.html
 
 ## Bodies:
 - A Model of Dynamic Human Shape in Motion:  http://dyna.is.tue.mpg.de 
@@ -75,7 +76,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - A lightweight 3D Morphable Model fitting library: https://github.com/patrikhuber/eos 
 - Probabilistic Fitting: https://github.com/unibas-gravis/scalismo-faces 
 - Deep Neural Network parameter regression: https://talhassner.github.io/home/publication/2017_CVPR
-- Experssion-Net: https://github.com/fengju514/Expression-Net
+- Expression-Net: https://github.com/fengju514/Expression-Net
 - Face-Pose-Net: https://github.com/fengju514/Face-Pose-Net
 - FLAME fitting: https://github.com/Rubikplayer/flame-fitting
 - RingNet: https://github.com/soubhiksanyal/RingNet
