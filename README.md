@@ -35,6 +35,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 
 # Data / 3D scans:
 ## Faces:
+- BU-3DFE, BU-4DFE: http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html
 - The Headspace dataset: https://www-users.cs.york.ac.uk/~nep/research/Headspace/
 - The UoY 3D face dataset https://www-users.cs.york.ac.uk/~nep/research/UoYfaces/
 - CoMA 3D face dataset (registrations): http://coma.is.tue.mpg.de/
