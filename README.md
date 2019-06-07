@@ -39,11 +39,11 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - The Headspace dataset: https://www-users.cs.york.ac.uk/~nep/research/Headspace/
 - The UoY 3D face dataset https://www-users.cs.york.ac.uk/~nep/research/UoYfaces/
 - CoMA 3D face dataset (registrations): http://coma.is.tue.mpg.de/
-- D3DFACS registrations: http://flame.is.tue.mpg.de/
+- D3DFACS dataset: [raw scan data](https://www.cs.bath.ac.uk/~dpc/D3DFACS/), [Registrations](http://flame.is.tue.mpg.de/)
 - FaceCap dataset: http://gvv.mpi-inf.mpg.de/projects/FaceCap/
 - MonFaceCap: http://gvv.mpi-inf.mpg.de/projects/MonFaceCap/ 
 - Parametric Face Image Generator: https://github.com/unibas-gravis/parametric-face-image-generator
-- VOCASET speech-4D scan dataset: https://voca.is.tue.mpg.de/
+- VOCASET speech-4D head scan dataset: https://voca.is.tue.mpg.de/
 - Speech-driven 3D Facial Motion Database (S3DFM): http://groups.inf.ed.ac.uk/trimbot2020/DYNAMICFACES/index.html
 
 ## Bodies:
@@ -79,11 +79,11 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - Deep Neural Network parameter regression: https://talhassner.github.io/home/publication/2017_CVPR
 - Expression-Net: https://github.com/fengju514/Expression-Net
 - Face-Pose-Net: https://github.com/fengju514/Face-Pose-Net
-- FLAME fitting: https://github.com/Rubikplayer/flame-fitting
-- RingNet: https://github.com/soubhiksanyal/RingNet
+- FLAME fitting: [Chumpy-based framework](https://github.com/Rubikplayer/flame-fitting) [Tensorflow-based framework](https://github.com/TimoBolkart/TF_FLAME) 
+- 3D face shape and expression regression network (RingNet): https://github.com/soubhiksanyal/RingNet
 
 ### Benchmarks:
-- “not quite in-the-wild” (NoW) Challenge: https://ringnet.is.tue.mpg.de
+- “not quite in-the-wild” (NoW) Challenge (3D face reconstruction from images benchmark): https://ringnet.is.tue.mpg.de
 
 ## Bodies:
 - 3D pose and shape (Neural Body Fitter): https://github.com/mohomran/neural_body_fitting
