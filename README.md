@@ -52,6 +52,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - Human3.6m - 3.6 million 3D poses from 11 actors and in 17 scenarios: http://vision.imar.ro/human3.6m
 - CAESAR body measurements database: https://store.sae.org/caesar/ 
 - People in clothing scans: http://buff.is.tue.mpg.de
+- Unite the People dataset: http://up.is.tuebingen.mpg.de
 - Data from the GVV group: http://gvvperfcapeva.mpi-inf.mpg.de/
   - MuCo-3DHP: http://gvv.mpi-inf.mpg.de/projects/SingleShotMultiPerson/
   - MuPoTS-3D: http://gvv.mpi-inf.mpg.de/projects/SingleShotMultiPerson/
