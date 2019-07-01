@@ -20,6 +20,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - Convolutional Mesh Autoencoder (CoMA): http://coma.is.tue.mpg.de/
 ## Body Models:
 - A skinned Multi-Person Linear Model (SMPL): http://smpl.is.tue.mpg.de/
+- Expressive Body Model - SMPL with articulated hands and expressive face (SMPL-X): https://smpl-x.is.tue.mpg.de/
 - MPII Human Shape Model: http://humanshape.mpi-inf.mpg.de/ 
 ## Other Models:
 - The York Ear Model: https://www-users.cs.york.ac.uk/~nep/research/YEM/
@@ -80,7 +81,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - Deep Neural Network parameter regression: https://talhassner.github.io/home/publication/2017_CVPR
 - Expression-Net: https://github.com/fengju514/Expression-Net
 - Face-Pose-Net: https://github.com/fengju514/Face-Pose-Net
-- FLAME fitting: [Chumpy-based framework](https://github.com/Rubikplayer/flame-fitting) [Tensorflow-based framework](https://github.com/TimoBolkart/TF_FLAME) 
+- FLAME fitting: [Chumpy-based framework](https://github.com/Rubikplayer/flame-fitting), [Tensorflow-based framework](https://github.com/TimoBolkart/TF_FLAME) 
 - 3D face shape and expression regression network (RingNet): https://github.com/soubhiksanyal/RingNet
 
 ### Benchmarks:
@@ -88,6 +89,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 
 ## Bodies:
 - 3D pose and shape (Neural Body Fitter): https://github.com/mohomran/neural_body_fitting
+- Expressive Body Capture: 3D Hands, Face, and Body from a Single Image (SMPLify-X): https://github.com/vchoutas/smplify-x
 
 # Illumination Models:
 - Basel Illumination Prior 2017: http://gravis.dmi.unibas.ch/PMM/data/bip/
