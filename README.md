@@ -85,6 +85,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - 3D face shape and expression regression network (RingNet): https://github.com/soubhiksanyal/RingNet
 - Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network https://github.com/YadiraF/PRNet
 - Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation https://github.com/matansel/pix2vertex
+- 3D Morphable Models as Spatial Transformer Networks https://github.com/anilbas/3DMMasSTN
 
 ### Benchmarks:
 - “not quite in-the-wild” (NoW) Challenge (3D face reconstruction from images benchmark): https://ringnet.is.tue.mpg.de
