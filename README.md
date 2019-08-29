@@ -87,6 +87,9 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation https://github.com/matansel/pix2vertex
 - 3D Morphable Models as Spatial Transformer Networks https://github.com/anilbas/3DMMasSTN
 - Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric Regression https://github.com/AaronJackson/vrn
+- Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set https://github.com/microsoft/Deep3DFaceReconstruction
+- Facial Detail synthesis https://github.com/apchenstu/Facial_Details_Synthesis
+
 
 ### Benchmarks:
 - “not quite in-the-wild” (NoW) Challenge (3D face reconstruction from images benchmark): https://ringnet.is.tue.mpg.de
