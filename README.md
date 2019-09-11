@@ -76,11 +76,14 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 # Model adaptation to images or videos:
 ## Faces:
 - 3D Morphable Model fitting using edge features: https://github.com/waps101/3DMM_edges 
+- Basic 3D Morphable Model fitting: https://github.com/anhttran/3dmm_basic
 - A lightweight 3D Morphable Model fitting library: https://github.com/patrikhuber/eos 
 - Probabilistic Fitting: https://github.com/unibas-gravis/scalismo-faces 
 - Deep Neural Network parameter regression: https://talhassner.github.io/home/publication/2017_CVPR
 - Expression-Net: https://github.com/fengju514/Expression-Net
 - Face-Pose-Net: https://github.com/fengju514/Face-Pose-Net
+- Shape-Net: https://github.com/anhttran/3dmm_cnn
+- Extreme 3D Face Reconstruction: https://github.com/anhttran/extreme_3d_faces
 - FLAME fitting: [Chumpy-based framework](https://github.com/Rubikplayer/flame-fitting), [Tensorflow-based framework](https://github.com/TimoBolkart/TF_FLAME) 
 - 3D face shape and expression regression network (RingNet): https://github.com/soubhiksanyal/RingNet
 - Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network https://github.com/YadiraF/PRNet
