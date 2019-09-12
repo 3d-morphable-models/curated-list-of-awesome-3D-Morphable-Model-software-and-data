@@ -46,6 +46,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - Parametric Face Image Generator: https://github.com/unibas-gravis/parametric-face-image-generator
 - VOCASET speech-4D head scan dataset: https://voca.is.tue.mpg.de/
 - Speech-driven 3D Facial Motion Database (S3DFM): http://groups.inf.ed.ac.uk/trimbot2020/DYNAMICFACES/index.html
+- The Florence 2D/3D hybrid face dataset: http://www.micc.unifi.it/vim/3dfaces-dataset/
 
 ## Bodies:
 - A Model of Dynamic Human Shape in Motion:  http://dyna.is.tue.mpg.de 
