@@ -24,6 +24,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - MPII Human Shape Model: http://humanshape.mpi-inf.mpg.de/ 
 ## Other Models:
 - The York Ear Model: https://www-users.cs.york.ac.uk/~nep/research/YEM/
+- SMALA Skinned Multi-Animal Linear Model of 3D Animal Shape http://smal.is.tue.mpg.de/
 
 # Registration / model construction / alignment:
 - Large Scale Facial Model (LSFM) pipeline: https://github.com/menpo/lsfm 
@@ -94,6 +95,8 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set https://github.com/microsoft/Deep3DFaceReconstruction
 - Facial Detail synthesis https://github.com/apchenstu/Facial_Details_Synthesis
 
+## Other"
+- Three-D Safari https://github.com/silviazuffi/smalst
 
 ### Benchmarks:
 - “not quite in-the-wild” (NoW) Challenge (3D face reconstruction from images benchmark): https://ringnet.is.tue.mpg.de
