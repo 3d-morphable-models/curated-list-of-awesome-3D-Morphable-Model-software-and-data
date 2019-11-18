@@ -24,7 +24,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - MPII Human Shape Model: http://humanshape.mpi-inf.mpg.de/ 
 ## Other Models:
 - The York Ear Model: https://www-users.cs.york.ac.uk/~nep/research/YEM/
-- SMALA Skinned Multi-Animal Linear Model of 3D Animal Shape http://smal.is.tue.mpg.de/
+- SMAL A Skinned Multi-Animal Linear Model of 3D Animal Shape http://smal.is.tue.mpg.de/
 
 # Registration / model construction / alignment:
 - Large Scale Facial Model (LSFM) pipeline: https://github.com/menpo/lsfm 
