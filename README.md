@@ -96,6 +96,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric Regression https://github.com/AaronJackson/vrn
 - Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set https://github.com/microsoft/Deep3DFaceReconstruction
 - Facial Detail synthesis https://github.com/apchenstu/Facial_Details_Synthesis
+- face3d: Python tools for processing 3D face https://github.com/YadiraF/face3d
 
 ## Other
 - Three-D Safari https://github.com/silviazuffi/smalst
