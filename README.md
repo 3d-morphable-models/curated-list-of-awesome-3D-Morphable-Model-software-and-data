@@ -25,6 +25,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 ## Other Models:
 - The York Ear Model: https://www-users.cs.york.ac.uk/~nep/research/YEM/
 - SMAL A Skinned Multi-Animal Linear Model of 3D Animal Shape http://smal.is.tue.mpg.de/
+- CAFM: A 3D Morphable Model for Animals https://github.com/sunyifan2017/CAFM-A-3D-Morphable-Model-for-Animals
 
 # Registration / model construction / alignment:
 - Large Scale Facial Model (LSFM) pipeline: https://github.com/menpo/lsfm 
