@@ -97,7 +97,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set https://github.com/microsoft/Deep3DFaceReconstruction
 - Facial Detail synthesis https://github.com/apchenstu/Facial_Details_Synthesis
 
-## Other"
+## Other
 - Three-D Safari https://github.com/silviazuffi/smalst
 
 
