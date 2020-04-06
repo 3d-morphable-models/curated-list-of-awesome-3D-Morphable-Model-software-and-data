@@ -18,6 +18,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - Surrey Face Model https://cvssp.org/facemodel
 - Articulated Expressive Head Model (FLAME): http://flame.is.tue.mpg.de/
 - Convolutional Mesh Autoencoder (CoMA): http://coma.is.tue.mpg.de/
+- ICT-FaceKIT - ICT Face Model: https://github.com/VGL-Group/ICT-FaceKit
 ## Body Models:
 - A skinned Multi-Person Linear Model (SMPL): http://smpl.is.tue.mpg.de/
 - Expressive Body Model - SMPL with articulated hands and expressive face (SMPL-X): https://smpl-x.is.tue.mpg.de/
