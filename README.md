@@ -24,10 +24,12 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - A skinned Multi-Person Linear Model (SMPL): http://smpl.is.tue.mpg.de/
 - Expressive Body Model - SMPL with articulated hands and expressive face (SMPL-X): https://smpl-x.is.tue.mpg.de/
 - MPII Human Shape Model: http://humanshape.mpi-inf.mpg.de/ 
+- GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models: https://github.com/google-research/google-research/tree/master/ghum
 ## Other Models:
 - The York Ear Model: https://www-users.cs.york.ac.uk/~nep/research/YEM/
 - SMAL A Skinned Multi-Animal Linear Model of 3D Animal Shape http://smal.is.tue.mpg.de/
 - CAFM: A 3D Morphable Model for Animals https://github.com/sunyifan2017/CAFM-A-3D-Morphable-Model-for-Animals
+- CAPE: Clothed Auto Person Encoding https://cape.is.tue.mpg.de/
 
 # Registration / model construction / alignment:
 - Large Scale Facial Model (LSFM) pipeline: https://github.com/menpo/lsfm 
@@ -52,6 +54,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - Speech-driven 3D Facial Motion Database (S3DFM): http://groups.inf.ed.ac.uk/trimbot2020/DYNAMICFACES/index.html
 - The Florence 2D/3D hybrid face dataset: http://www.micc.unifi.it/vim/3dfaces-dataset/
 - Parametric Mooney Face Generator: https://github.com/updown2/MooneyFaceGenerator
+- FaceScape 3D dataset https://facescape.nju.edu.cn/
 
 ## Bodies:
 - A Model of Dynamic Human Shape in Motion:  http://dyna.is.tue.mpg.de 
@@ -60,6 +63,8 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - CAESAR body measurements database: https://store.sae.org/caesar/ 
 - People in clothing scans: http://buff.is.tue.mpg.de
 - Unite the People dataset: http://up.is.tuebingen.mpg.de
+- CMU Panoptic dataset: http://domedb.perception.cs.cmu.edu/dataset.html
+- Human Behavioral Multiview Imaging Dataset (HUMBI): https://humbi-data.net/
 - Data from the GVV group: http://gvvperfcapeva.mpi-inf.mpg.de/
   - MuCo-3DHP: http://gvv.mpi-inf.mpg.de/projects/SingleShotMultiPerson/
   - MuPoTS-3D: http://gvv.mpi-inf.mpg.de/projects/SingleShotMultiPerson/
@@ -99,6 +104,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set https://github.com/microsoft/Deep3DFaceReconstruction
 - Facial Detail synthesis https://github.com/apchenstu/Facial_Details_Synthesis
 - face3d: Python tools for processing 3D face https://github.com/YadiraF/face3d
+- Photometric FLAME Fitting: https://github.com/HavenFeng/photometric_optimization
 
 ## Other
 - Three-D Safari https://github.com/silviazuffi/smalst
@@ -122,3 +128,8 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 # Web services:
 - Photo-realistic Face Manipulation: https://face-morpher.scalismo.org/
 - 3D Face Reconstruction from a Single Image: https://cvl-demos.cs.nott.ac.uk/vrn/
+
+# To be released:
+https://www.arielai.com/mesh_hands/
+https://github.com/lattas/AvatarMe
+
