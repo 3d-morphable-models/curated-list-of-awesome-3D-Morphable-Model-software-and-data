@@ -130,6 +130,6 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - 3D Face Reconstruction from a Single Image: https://cvl-demos.cs.nott.ac.uk/vrn/
 
 # To be released:
-https://www.arielai.com/mesh_hands/
-https://github.com/lattas/AvatarMe
+- https://www.arielai.com/mesh_hands/
+- https://github.com/lattas/AvatarMe
 
