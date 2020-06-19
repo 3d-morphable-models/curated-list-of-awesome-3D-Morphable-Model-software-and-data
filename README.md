@@ -128,6 +128,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 # Web services:
 - Photo-realistic Face Manipulation: https://face-morpher.scalismo.org/
 - 3D Face Reconstruction from a Single Image: https://cvl-demos.cs.nott.ac.uk/vrn/
+- Pix2vertex : https://mybinder.org/v2/gh/eladrich/pix2vertex.pytorch/mybinder
 
 # To be released:
 - https://www.arielai.com/mesh_hands/
