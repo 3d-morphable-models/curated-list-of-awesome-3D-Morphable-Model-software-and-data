@@ -16,15 +16,16 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - Multilinear Autoencoder for 3D Face Model Learning: http://mae.gforge.inria.fr/ 
 - Statistical 3D Shape Models of Human Faces: http://facepage.gforge.inria.fr/ 
 - Surrey Face Model https://cvssp.org/facemodel
-- Articulated Expressive Head Model (FLAME): http://flame.is.tue.mpg.de/
-- Convolutional Mesh Autoencoder (CoMA): http://coma.is.tue.mpg.de/
+- FLAME: Articulated Expressive Head Model: http://flame.is.tue.mpg.de/
+- CoMA: Convolutional Mesh Autoencoder: http://coma.is.tue.mpg.de/
 - ICT-FaceKIT - ICT Face Model: https://github.com/VGL-Group/ICT-FaceKit
 - Albedo Morphable Model: https://github.com/waps101/AlbedoMM
 ## Body Models:
-- A skinned Multi-Person Linear Model (SMPL): http://smpl.is.tue.mpg.de/
-- Expressive Body Model - SMPL with articulated hands and expressive face (SMPL-X): https://smpl-x.is.tue.mpg.de/
+- SMPL: A skinned Multi-Person Linear Model: http://smpl.is.tue.mpg.de/
+- SMPL-X: Expressive Body Model - SMPL with articulated hands and expressive face: https://smpl-x.is.tue.mpg.de/
 - MPII Human Shape Model: http://humanshape.mpi-inf.mpg.de/ 
 - GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models: https://github.com/google-research/google-research/tree/master/ghum
+- STAR: Sparse Articulated Human Body Model: http://star.is.tue.mpg.de/
 ## Other Models:
 - The York Ear Model: https://www-users.cs.york.ac.uk/~nep/research/YEM/
 - SMAL A Skinned Multi-Animal Linear Model of 3D Animal Shape http://smal.is.tue.mpg.de/
@@ -45,8 +46,8 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - BU-3DFE, BU-4DFE: http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html
 - The Headspace dataset: https://www-users.cs.york.ac.uk/~nep/research/Headspace/
 - The UoY 3D face dataset https://www-users.cs.york.ac.uk/~nep/research/UoYfaces/
-- CoMA 3D face dataset (registrations): http://coma.is.tue.mpg.de/
-- D3DFACS dataset: [raw scan data](https://www.cs.bath.ac.uk/~dpc/D3DFACS/), [Registrations](http://flame.is.tue.mpg.de/)
+- CoMA 3D face dataset (scans, registrations): http://coma.is.tue.mpg.de/
+- D3DFACS dataset: [raw scan data](https://www.cs.bath.ac.uk/~dpc/D3DFACS/), [registrations](http://flame.is.tue.mpg.de/)
 - FaceCap dataset: http://gvv.mpi-inf.mpg.de/projects/FaceCap/
 - MonFaceCap: http://gvv.mpi-inf.mpg.de/projects/MonFaceCap/ 
 - Parametric Face Image Generator: https://github.com/unibas-gravis/parametric-face-image-generator
@@ -115,7 +116,8 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 
 ## Bodies:
 - 3D pose and shape (Neural Body Fitter): https://github.com/mohomran/neural_body_fitting
-- Expressive Body Capture: 3D Hands, Face, and Body from a Single Image (SMPLify-X): https://github.com/vchoutas/smplify-x
+- SMPLify-X: Expressive Body Capture: 3D Hands, Face, and Body from a Single Image: https://github.com/vchoutas/smplify-x
+- ExPose: Monocular Expressive Body Regression through Body-Driven Attention: https://github.com/vchoutas/expose
 
 # Illumination Models:
 - Basel Illumination Prior 2017: http://gravis.dmi.unibas.ch/PMM/data/bip/
