@@ -106,6 +106,7 @@ The idea of this list is to collect shared data and algorithms around 3D Morphab
 - Facial Detail synthesis https://github.com/apchenstu/Facial_Details_Synthesis
 - face3d: Python tools for processing 3D face https://github.com/YadiraF/face3d
 - Photometric FLAME Fitting: https://github.com/HavenFeng/photometric_optimization
+- Single Shot Multiple Face Reconstruction: https://github.com/kalyo-zjl/WM3DR
 
 ## Other
 - Three-D Safari https://github.com/silviazuffi/smalst
