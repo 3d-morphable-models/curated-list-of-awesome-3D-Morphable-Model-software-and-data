@@ -5,6 +5,15 @@
 
 The idea of this list is to collect shared data and algorithms around 3D Morphable Models. You are invited to contribute to this list by adding a pull request. The original list arised from the Dagstuhl seminar on 3D Morphable Models https://www.dagstuhl.de/19102 in March 2019.
 
+This list also accompanies our survey on 3D Morphable models:
+
+**3D Morphable Face Models - Past, Present and Future**  
+Bernhard Egger, William A.P Smith, Ayush Tewari, Stefanie Wuhrer, Michael Zollhoefer, Thabo Beeler, Florian Bernard, Timo Bolkart, Adam Kortylewski, Sami Romdhani, Christian Theobalt, Volker Blanz, Thomas Vetter  
+ACM Transactions on Graphics, 2020  
+DOI: https://doi.org/10.1145/3395208  
+https://arxiv.org/abs/1909.01815
+
+
 # Morphable Models:
 ## Google Group
 - Google group to help foster a research community interested in 3DMMs, share resources etc.: https://groups.google.com/forum/#!forum/3d-morphable-models
