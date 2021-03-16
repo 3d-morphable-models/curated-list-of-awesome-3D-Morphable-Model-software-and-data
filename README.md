@@ -65,6 +65,7 @@ https://arxiv.org/abs/1909.01815
 - The Florence 2D/3D hybrid face dataset: http://www.micc.unifi.it/vim/3dfaces-dataset/
 - Parametric Mooney Face Generator: https://github.com/updown2/MooneyFaceGenerator
 - FaceScape 3D dataset https://facescape.nju.edu.cn/
+- AvatarMe scans https://github.com/lattas/AvatarMe
 
 ## Bodies:
 - A Model of Dynamic Human Shape in Motion:  http://dyna.is.tue.mpg.de 
@@ -93,6 +94,7 @@ https://arxiv.org/abs/1909.01815
 - 3D people in clothing from video: https://graphics.tu-bs.de/people-snapshot
 - The York 3D Ear dataset: https://www-users.cs.york.ac.uk/~nep/research/YEM/ 
 - Estimation of Human Body Shape in Motion with Wide Clothing: http://dressedhuman.gforge.inria.fr/ 
+- YouTube 3D Hands (YT 3D): https://github.com/arielai/youtube_3d_hands
 
 # Model adaptation to images or videos:
 ## Faces:
@@ -143,6 +145,6 @@ https://arxiv.org/abs/1909.01815
 - Pix2vertex : https://mybinder.org/v2/gh/eladrich/pix2vertex.pytorch/mybinder
 
 # To be released:
-- https://www.arielai.com/mesh_hands/
-- https://github.com/lattas/AvatarMe
+
+
 
