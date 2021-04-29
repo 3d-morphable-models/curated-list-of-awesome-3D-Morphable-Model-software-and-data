@@ -118,6 +118,8 @@ https://arxiv.org/abs/1909.01815
 - face3d: Python tools for processing 3D face https://github.com/YadiraF/face3d
 - Photometric FLAME Fitting: https://github.com/HavenFeng/photometric_optimization
 - Single Shot Multiple Face Reconstruction: https://github.com/kalyo-zjl/WM3DR
+- Rotate and Render: https://github.com/Hangz-nju-cuhk/Rotate-and-Render
+- DECA: Detailed Expression Capture and Animation: https://github.com/YadiraF/DECA
 
 ## Other
 - Three-D Safari https://github.com/silviazuffi/smalst
