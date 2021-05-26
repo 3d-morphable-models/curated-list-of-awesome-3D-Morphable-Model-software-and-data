@@ -120,7 +120,7 @@ https://arxiv.org/abs/1909.01815
 - Single Shot Multiple Face Reconstruction: https://github.com/kalyo-zjl/WM3DR
 - Rotate and Render: https://github.com/Hangz-nju-cuhk/Rotate-and-Render
 - DECA: Detailed Expression Capture and Animation: https://github.com/YadiraF/DECA
-- Nonlinear 3D Face Morphable Model https://github.com/tranluan/Nonlinear_Face_3DMM
+- Nonlinear 3D Face Morphable Model: https://github.com/tranluan/Nonlinear_Face_3DMM
 
 ## Other
 - Three-D Safari https://github.com/silviazuffi/smalst
