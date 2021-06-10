@@ -50,6 +50,7 @@ https://arxiv.org/abs/1909.01815
 - Transformation Synchronisation method for making pairwise transformations cycle-consistent (e.g. for solving the Generalised - - Procrustes Problem, or general multi-image registration): https://sites.google.com/site/fbernardpi/code
 - Learning linear shape deformations with local support: https://sites.google.com/site/fbernardpi/code
 - 3D Face Modeling from Diverse Raw Scan Data: https://github.com/liuf1990/3DFC
+- 3D Growth Curves https://github.com/harrymatthews50/3DGrowthCurves
 
 # Data / 3D scans:
 ## Faces:
