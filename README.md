@@ -124,7 +124,8 @@ https://arxiv.org/abs/1909.01815
 - Rotate and Render: https://github.com/Hangz-nju-cuhk/Rotate-and-Render
 - DECA: Detailed Expression Capture and Animation: https://github.com/YadiraF/DECA
 - Nonlinear 3D Face Morphable Model: https://github.com/tranluan/Nonlinear_Face_3DMM
-- Towards Fast, Accurate and Stable 3D Dense Face Alignment https://github.com/cleardusk/3DDFA_V2
+- Face Alignment in Full Pose Range: A 3D Total Solution: https://github.com/cleardusk/3DDFA
+- Towards Fast, Accurate and Stable 3D Dense Face Alignment: https://github.com/cleardusk/3DDFA_V2
 
 ## Other
 - Three-D Safari https://github.com/silviazuffi/smalst
