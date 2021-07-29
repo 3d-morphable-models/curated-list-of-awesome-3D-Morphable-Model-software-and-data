@@ -69,6 +69,7 @@ https://arxiv.org/abs/1909.01815
 - Parametric Mooney Face Generator: https://github.com/updown2/MooneyFaceGenerator
 - FaceScape 3D dataset https://facescape.nju.edu.cn/
 - AvatarMe scans https://github.com/lattas/AvatarMe
+- H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction https://crisalixsa.github.io/h3d-net/
 
 ## Bodies:
 - A Model of Dynamic Human Shape in Motion:  http://dyna.is.tue.mpg.de 
