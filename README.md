@@ -127,6 +127,7 @@ https://arxiv.org/abs/1909.01815
 - Nonlinear 3D Face Morphable Model: https://github.com/tranluan/Nonlinear_Face_3DMM
 - Face Alignment in Full Pose Range: A 3D Total Solution: https://github.com/cleardusk/3DDFA
 - Towards Fast, Accurate and Stable 3D Dense Face Alignment: https://github.com/cleardusk/3DDFA_V2
+- PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering: https://github.com/RenYurui/PIRender
 
 ## Other
 - Three-D Safari https://github.com/silviazuffi/smalst
