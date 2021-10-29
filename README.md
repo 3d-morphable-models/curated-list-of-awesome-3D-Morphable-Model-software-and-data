@@ -128,6 +128,7 @@ https://arxiv.org/abs/1909.01815
 - Face Alignment in Full Pose Range: A 3D Total Solution: https://github.com/cleardusk/3DDFA
 - Towards Fast, Accurate and Stable 3D Dense Face Alignment: https://github.com/cleardusk/3DDFA_V2
 - PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering: https://github.com/RenYurui/PIRender
+- Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry: https://github.com/choyingw/SynergyNet
 
 ## Other
 - Three-D Safari https://github.com/silviazuffi/smalst
