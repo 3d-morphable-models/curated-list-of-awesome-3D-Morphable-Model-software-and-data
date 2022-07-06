@@ -133,6 +133,7 @@ https://arxiv.org/abs/1909.01815
 - Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry: https://github.com/choyingw/SynergyNet
 - VariTex: Variational Neural Face Textures: https://github.com/mcbuehler/VariTex
 - Facial Geometric Detail Recovery via Implicit Representation: https://github.com/deepinsight/insightface/tree/master/reconstruction/PBIDR
+- To fit or not to fit: Occlusion Robust MoFA: https://github.com/unibas-gravis/Occlusion-Robust-MoFA
 
 ## Other
 - Three-D Safari https://github.com/silviazuffi/smalst
