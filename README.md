@@ -29,6 +29,8 @@ https://arxiv.org/abs/1909.01815
 - CoMA: Convolutional Mesh Autoencoder: http://coma.is.tue.mpg.de/
 - ICT-FaceKIT - ICT Face Model: https://github.com/VGL-Group/ICT-FaceKit
 - Albedo Morphable Model: https://github.com/waps101/AlbedoMM
+- FaceVerse: https://www.liuyebin.com/faceverse/faceverse.html
+
 ## Body Models:
 - SMPL: A skinned Multi-Person Linear Model: http://smpl.is.tue.mpg.de/
 - SMPL-X: Expressive Body Model - SMPL with articulated hands and expressive face: https://smpl-x.is.tue.mpg.de/
