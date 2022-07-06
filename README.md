@@ -70,7 +70,6 @@ https://arxiv.org/abs/1909.01815
 - The Florence 2D/3D hybrid face dataset: http://www.micc.unifi.it/vim/3dfaces-dataset/
 - Parametric Mooney Face Generator: https://github.com/updown2/MooneyFaceGenerator
 - FaceScape 3D dataset https://facescape.nju.edu.cn/
-<!--- AvatarMe scans https://github.com/lattas/AvatarMe-->
 - H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction https://crisalixsa.github.io/h3d-net/
 - Towards a complete 3D morphable model of the human head https://github.com/steliosploumpis/Universal_Head_3DMM
 
